@@ -51,9 +51,9 @@ If you liked this project please consider leaving a star it will help ChuroVoice
 
 <a href="https://www.star-history.com/?repos=MathObsession%2FChuro-assistant&type=timeline&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&theme=dark&legend=top-left&sealed_token=LsyWvx2JIX_Zrd77KpNGPXVesGAb84h1V5baclHEil9XExByjfQcupEthdLa94rqvfbX44JkRIlriAqZ8w0RUtayj6_u5h6suJo0hPnz8KJIiJLGDWZ6v2o280AAs0bU2MgklR2cXpfm1YMSvcVb48tM-GD8FzsrW3_XFfwq52lNeHcJDOLaA5pu-M_y" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&legend=top-left&sealed_token=LsyWvx2JIX_Zrd77KpNGPXVesGAb84h1V5baclHEil9XExByjfQcupEthdLa94rqvfbX44JkRIlriAqZ8w0RUtayj6_u5h6suJo0hPnz8KJIiJLGDWZ6v2o280AAs0bU2MgklR2cXpfm1YMSvcVb48tM-GD8FzsrW3_XFfwq52lNeHcJDOLaA5pu-M_y" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MathObsession/Churo-assistant&type=timeline&legend=top-left&sealed_token=LsyWvx2JIX_Zrd77KpNGPXVesGAb84h1V5baclHEil9XExByjfQcupEthdLa94rqvfbX44JkRIlriAqZ8w0RUtayj6_u5h6suJo0hPnz8KJIiJLGDWZ6v2o280AAs0bU2MgklR2cXpfm1YMSvcVb48tM-GD8FzsrW3_XFfwq52lNeHcJDOLaA5pu-M_y" />
  </picture>
 </a>
 
